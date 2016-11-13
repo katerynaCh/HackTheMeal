@@ -12,4 +12,4 @@ The idea is to extend the Smartmeal system add a reward system:
 - Earn points by achieving your calorie goals
 - Spend points on rewards (lunch discount, free coffee, bagels etc.)
 
-Be responisble, get WASTED
+Be responisble. Get WASTED
