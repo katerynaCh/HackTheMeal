@@ -17,7 +17,7 @@ For MAMK, this will result in huge cost benefits: providing several rewards is c
 For Smartmeal owners, high amount of users will result in popularity of the system and sales increase.
 For users, discounts will be provided.
 
-<h3>Be responisble. Get WASTED.</h3>
+<h3>Be responsible. Get WASTED.</h3>
 
 
 Here are some app screenshots for the brief review of demo: 
