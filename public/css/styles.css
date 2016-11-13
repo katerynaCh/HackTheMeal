@@ -1,0 +1,160 @@
+/**
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ */
+ 
+html{
+   box-sizing:border-box;
+   height:100%;
+   background-color:#F5F5F5;
+}
+img{
+    max-width:100%;
+}
+body{
+    margin:0;
+    height:100%;
+    background-color:#F5F5F5;
+}
+
+
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    padding-left:0;
+    padding-right:0;
+}
+
+
+#top
+{
+    width:100%;
+    margin-bottom:10px;
+    background:white;
+    height:106px;
+    text-shadow:1px 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow:0px 4px rgba(0, 0, 0, 0.1);
+    
+}
+
+#top .nav
+{
+   
+}
+
+#middle{
+      margin:auto;
+      margin-top:0px;
+      overflow-y:scroll;
+      height:500px;
+}
+#middle .form-control
+{
+    width:310px;
+    height:63px;
+    
+}
+
+#bottom
+{
+   
+    flex-flow:column;
+    background-color:white;
+    height:50px;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    
+ 
+}
+
+#navigation-bar{
+    display:flex;
+    flex-direction:row;
+    height:100%;
+    width:100%;
+    position: absolute;
+}
+
+.navigat{
+    width:25%;
+    height:100%;
+    text-align:center;
+}
+
+
+a{
+    color:#D1DBE9;
+}
+
+
+a:hover,
+a.selected
+{
+  color: #B9DF4A;
+}
+#logo{
+    width:300px;
+    display:block;
+    margin:auto;
+    margin-top:12px;
+}
+
+span{
+    
+    font-size:30px;
+    margin-top:10px;
+    
+}
+
+
+.image {
+    position:relative;
+    margin-top:-25px;
+}
+
+.text {
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 30px;
+    width: 100%;
+    color:#F4F5FB;
+    font-size:27px;
+    font-family:monospace;
+}
+#env_title{
+    
+    font-size:15px;
+    margin:15px;
+}
+
+#scores{
+    text-align:center;
+}
+#num_scores{
+    color:#3ABEFF;
+    font-size:60px;
+}
+
+#cup_img{
+    
+    display:block;
+    margin:auto;
+    height:100px;
+}
+
+.diary_pic{
+    margin-top:10px;
+}
+
+@media (max-width: 420px) {
+    body{
+    width:412px;
+    margin:auto;
+  }
+}
