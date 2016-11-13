@@ -12,7 +12,12 @@ The idea is to extend the Smartmeal system add a reward system:
 - Earn points by achieving your calorie goals
 - Spend points on rewards (lunch discount, free coffee, bagels etc.)
 
-Be responisble. Get WASTED.
+With WASTED, while saving the planet, businesses also save money.
+For MAMK, this will result in huge cost benefits: providing several rewards is cheaper than waste disposal. 
+For Smartmeal owners, high amount of users will result in popularity of the system and sales increase.
+For users, discounts will be provided as results.
+
+<h3>Be responisble. Get WASTED.</h3>
 
 
 Here are some app screenshots for the brief review of demo: 
