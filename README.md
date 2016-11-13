@@ -15,5 +15,8 @@ The idea is to extend the Smartmeal system add a reward system:
 Be responisble. Get WASTED.
 
 
-<img src ="https://github.com/katerynaCh/HackTheMeal/blob/master/a94kRgErWp4.jpg" width="250">
+Here are some app screenshots for the brief review of demo: 
+
+
+<img src ="https://github.com/katerynaCh/HackTheMeal/blob/master/a94kRgErWp4.jpg" width="250"> <img src ="https://github.com/katerynaCh/HackTheMeal/blob/master/background2.png" width="250"> <img src ="https://github.com/katerynaCh/HackTheMeal/blob/master/background3.png" width="250"> <img src ="https://github.com/katerynaCh/HackTheMeal/blob/master/badges2.png" width="250"> <img src ="https://github.com/katerynaCh/HackTheMeal/blob/master/day1.png" width="250"> <img src ="https://github.com/katerynaCh/HackTheMeal/blob/master/day2.png" width="250">
 
