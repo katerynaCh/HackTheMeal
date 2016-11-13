@@ -1,4 +1,4 @@
-Make Kasarmiina Great Again!
+<h4>Make Kasarmiina Great Again!</h4>
 
 You buy some lunch, you eat it, you throw away what's left. Sounds familiar? Food waste is an increasing problem in food service industry which leads to major problems, starting with increased costs and waste and ending in famine.
 
@@ -15,7 +15,7 @@ The idea is to extend the Smartmeal system add a reward system:
 With WASTED, while saving the planet, businesses also save money.
 For MAMK, this will result in huge cost benefits: providing several rewards is cheaper than waste disposal. 
 For Smartmeal owners, high amount of users will result in popularity of the system and sales increase.
-For users, discounts will be provided as results.
+For users, discounts will be provided.
 
 <h3>Be responisble. Get WASTED.</h3>
 
