@@ -13,3 +13,5 @@ The idea is to extend the Smartmeal system add a reward system:
 - Spend points on rewards (lunch discount, free coffee, bagels etc.)
 
 Be responisble. Get WASTED.
+![](https://github.com/katerynaCh/HackTheMeal/blob/master/a94kRgErWp4.jpg)
+
